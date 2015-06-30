@@ -10,6 +10,11 @@ import com.sun.jersey.api.client.Client;
 import com.sun.jersey.api.client.ClientResponse;
 import com.sun.jersey.api.client.WebResource;
 
+/**
+ * Simple JAX-RS client
+ * @author l-gu
+ *
+ */
 public class ClientApp {
 
 	public static void main(String[] args) {
